@@ -1,16 +1,116 @@
-## Hi there 👋
+# 👋 Hi, I'm Joyal Binsu
 
-<!--
-**Jo-bins-u/Jo-bins-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (AI & ML) | Honours in Cyber Security
+💻 Full-Stack Developer | Cybersecurity Enthusiast
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a 3rd-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong focus on **Cybersecurity**.
+
+I enjoy building **real-world applications** that combine:
+
+* 🔐 Security
+* 🧠 Intelligence (AI/ML)
+* 🌐 Scalable web systems
+
+I aim to contribute to **innovative and secure technology solutions** while gaining hands-on industry experience. 
+
+---
+
+## 🔥 Featured Project
+
+### 🔐 APKShield — Fake APK Detection System
+
+A cybersecurity-focused system to detect **malicious and fake Android APKs**.
+
+* 🧠 Custom static analysis engine
+* ⚖️ Dual scan (Model + MobSF)
+* 📊 Risk scoring (0–100)
+* 🔍 Permission & behavior analysis
+* 👤 User authentication & scan history
+
+📌 Achieved **85–90% detection accuracy** across 50+ APK samples 
+
+👉 https://github.com/Jo-bins-u/apkshield
+
+---
+
+## 🧠 Projects
+
+### 🤖 AI Knowledge Chatbot (RAG-Based)
+
+* Built a Retrieval-Augmented Generation chatbot for domain-specific queries
+* Implemented web scraping, embeddings & vector search
+* Integrated backend APIs with frontend using Python & FastAPI 
+
+---
+
+### 📊 Daily Coding Challenge Dashboard
+
+* Role-based system (Student, Teacher, Admin)
+* Google Sheets as backend
+* Dashboard for tracking performance across 50+ entries 
+
+---
+
+## 💼 Experience
+
+### 💻 Full Stack Web Development Intern
+
+**Soften Technologies, Kochi**
+
+* Developed backend & database systems
+* Designed schema reducing redundancy by 30%
+* Implemented CRUD operations and server-side logic 
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python | Java | C
+
+**Web Development:**
+HTML | CSS | JavaScript | React.js | Node.js
+
+**Database:**
+SQL
+
+**Cybersecurity Tools:**
+Wireshark | MobSF | Nmap | Linux
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jo-bins-u\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-bins-u\&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Cybersecurity
+* Cloud Computing
+* System Design
+
+---
+
+## 📫 Connect With Me
+
+📧 [joyalbinsu0@gmail.com](mailto:joyalbinsu0@gmail.com)
+🔗 https://www.linkedin.com/in/joyal-binsu
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy working at the intersection of **AI + Cybersecurity + Full Stack Development** 🚀
+
+---
+
+⭐ *Always building. Always learning.*
