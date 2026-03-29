@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joyal Binsu
 
-🎓 BTech CSE (AI & ML) | Honours in Cyber Security
+🎓 BTech CSE (AI & ML) | Honours in Cyber Security |
 💻 Full-Stack Developer | Cybersecurity Enthusiast
 📍 India
 
