@@ -87,9 +87,9 @@ Wireshark | MobSF | Nmap | Linux
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Joyal_binsu\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Joyal_binsu&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal_binsu\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal_binsu&layout=compact&theme=tokyonight)
 
 ---
 
