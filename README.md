@@ -38,21 +38,22 @@ A cybersecurity-focused system to detect **malicious and fake Android APKs**.
 
 ---
 
-## 🧠 Projects
-
 ### 🤖 AI Knowledge Chatbot (RAG-Based)
 
 * Built a Retrieval-Augmented Generation chatbot for domain-specific queries
 * Implemented web scraping, embeddings & vector search
 * Integrated backend APIs with frontend using Python & FastAPI 
 
+👉 https://github.com/Jo-bins-u/Build-The-Network
 ---
 
 ### 📊 Daily Coding Challenge Dashboard
 
 * Role-based system (Student, Teacher, Admin)
 * Google Sheets as backend
-* Dashboard for tracking performance across 50+ entries 
+* Dashboard for tracking performance across 50+ entries
+
+👉 https://github.com/Jo-bins-u/DailyCodingChallenge2
 
 ---
 
