@@ -190,6 +190,6 @@ A performance tracking system built for student coding challenges at scale.
 
 *⭐ If any of my projects helped you, consider giving them a star!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer" width="100%"/>
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg)
 
 </div>
