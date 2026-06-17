@@ -138,12 +138,11 @@ A performance tracking system built for student coding challenges at scale.
 
 ---
 
-## 🏆 Trophies
+## 🏆 Stat badge
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jo-bins-u&theme=darkhub&no-frame=true&column=7&margin-w=4)](https://github.com/Jo-bins-u)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jo-bins-u&theme=github-compact&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true)](https://github.com/Jo-bins-u)
 </div>
 
 ---
@@ -190,6 +189,6 @@ A performance tracking system built for student coding challenges at scale.
 
 *⭐ If any of my projects helped you, consider giving them a star!*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer" width="100%"/>
 
 </div>
