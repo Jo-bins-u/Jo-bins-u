@@ -12,7 +12,7 @@
 <br/><br/>
 
 ```
-BTech CSE · AI/ML Specialization · Cybersecurity Honours · Soften Technologies Intern
+BTech CSE · AI/ML Specialization · Cybersecurity Honours · Soften Technologies Intern · Cezen Technologies Pvt Ltd.
 ```
 
 </div>
@@ -61,6 +61,11 @@ Domain-specific knowledge chatbot using Retrieval-Augmented Generation — auto-
 ### 📊 Coding Dashboard &nbsp;·&nbsp; `HTML` `JavaScript` `Google Sheets API`
 Performance tracker for coding challenges with a 3-tier role system (Student / Teacher / Admin) and Google Sheets as a zero-infra backend. Supports 50+ users with leaderboards and progress history.
 &nbsp;&nbsp;[![repo](https://img.shields.io/badge/view_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jo-bins-u/DailyCodingChallenge2)
+
+## 📅 EventOps &nbsp;·&nbsp; `React` `Node.js` `Express` `MongoDB` `Socket.io`
+Collaborative event coordination platform featuring a 5-tier role system (Admin / Domain Head / Event Head / Student Rep / Volunteer). Supports real-time chat with NLP-powered task conversion, Gantt chart timelines, document management, and live notification streams.
+&nbsp;&nbsp;[![repo](https://img.shields.io/badge/view_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jo-bins-u/EventOps)
+
 
 ---
 
